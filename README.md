@@ -70,22 +70,3 @@ npm start
 * Backend → http://localhost:5000
 * Frontend → http://localhost:3000
 ---
-## 📂 Project Structure
-```
-MERN/
-│── backend/
-│   ├── server.js
-│   ├── package.json
-│
-│── frontend/
-│   ├── src/
-│   │   ├── App.js
-│   ├── package.json
-```
-
----
-## 🌟 Future Improvements
-
-* ✏️ Update feature
-* 🔐 Authentication
-* 🎨 Better UI
